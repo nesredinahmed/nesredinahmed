@@ -35,6 +35,6 @@
 </p>
 ## 📊 Most Used Languages:
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesredinahmed&layout=compact&theme=default" />
 </div>
