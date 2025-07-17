@@ -29,7 +29,7 @@
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25px"/>
 </p>
-## 📊 Most Used Languages:
+ 📊 Most Used Languages:
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesredinahmed&layout=compact&theme=default" />
