@@ -33,3 +33,8 @@
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="25px"/>
 </p>
+## 📊 Most Used Languages:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesredinahmed&layout=compact&theme=default" />
+</div>
